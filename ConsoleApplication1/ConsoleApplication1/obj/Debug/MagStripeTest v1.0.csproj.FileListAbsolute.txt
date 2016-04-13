@@ -1,0 +1,6 @@
+E:\Clouds\GoogleDisc\DLS\VisualStudio\ConsoleApplication1\ConsoleApplication1\obj\Debug\MagStripeTest v1.0.csprojResolveAssemblyReference.cache
+E:\Clouds\GoogleDisc\DLS\VisualStudio\ConsoleApplication1\ConsoleApplication1\bin\Debug\MagStripeTest v1.0.exe.config
+E:\Clouds\GoogleDisc\DLS\VisualStudio\ConsoleApplication1\ConsoleApplication1\bin\Debug\MagStripeTest v1.0.exe
+E:\Clouds\GoogleDisc\DLS\VisualStudio\ConsoleApplication1\ConsoleApplication1\bin\Debug\MagStripeTest v1.0.pdb
+E:\Clouds\GoogleDisc\DLS\VisualStudio\ConsoleApplication1\ConsoleApplication1\obj\Debug\MagStripeTest v1.0.exe
+E:\Clouds\GoogleDisc\DLS\VisualStudio\ConsoleApplication1\ConsoleApplication1\obj\Debug\MagStripeTest v1.0.pdb
